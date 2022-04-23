@@ -1,0 +1,18 @@
+PERSONAL_ACCESS_TOKEN:glpat-S9r6esAs8AJYAthvBxet
+WEBHOOK_URL:https://gitlabdiptamtest.herokuapp.com/gitlab/2
+#Set the belows to True as per need
+confidential_issues_events: False 
+confidential_note_events: False
+deployment_events:False
+issues_events:False
+job_events:False
+merge_requests_events:False
+note_events:False
+pipeline_events:False
+releases_events:False
+wiki_page_events:False
+tag_push_events:False
+push_events:True
+enable_ssl_verification:False
+#Add Secret token to validate received payloads; this isn’t returned in the response.
+token:

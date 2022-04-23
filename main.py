@@ -1,4 +1,3 @@
-from dataclasses import dataclass
 import requests, json, argparse
 
 #Getting the personal access token and webhook

@@ -1,5 +1,5 @@
-PERSONAL_ACCESS_TOKEN:glpat-S9r6esAs8AJYAthvBxet
-WEBHOOK_URL:https://gitlabdiptamtest.herokuapp.com/gitlab/2
+PERSONAL_ACCESS_TOKEN:glpat-hybne6G5EKx9i5GoqvXf
+WEBHOOK_URL:https://gitlabdiptamtest.herokuapp.com/gitlab/23
 #Set the belows to True as per need
 confidential_issues_events: False 
 confidential_note_events: False
